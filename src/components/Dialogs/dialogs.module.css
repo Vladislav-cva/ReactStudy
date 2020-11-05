@@ -1,0 +1,23 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.item{
+    height: 50px;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+
+.messageItem{
+    padding: 10px;
+    
+}
+
+button{
+    margin: 10px;
+}
+
+textarea{
+    margin: 10px;
+}
